@@ -58095,7 +58095,7 @@ m.ap(new A.a3l(m))
 p=m.d
 p===$&&A.d()
 s=2
-return A.a7(A.asJ(A.aq7("http","54.158.207.162:8000","getSuggestions/",p)),$async$$0)
+return A.a7(A.asJ(A.aq7("https","api.modatil.com.br","getSuggestions/",p)),$async$$0)
 case 2:o=b
 n=t.j.a(B.aA.cj(0,A.asu(A.aqy(o.e).c.a.i(0,"charset")).cj(0,o.w)))
 m.ap(new A.a3m(m))
