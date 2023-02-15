@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="682.66669"
+   height="682.66669"
+   viewBox="0 0 682.66669 682.66669"
+   sodipodi:docname="logo_512.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16"><path
+         d="M 0,512 H 512 V 0 H 0 Z"
+         id="path14" /></clipPath></defs><sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" /><g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="logo_512"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)"><g
+       id="g10"><g
+         id="g12"
+         clip-path="url(#clipPath16)"><g
+           id="g18"
+           transform="translate(0,458.2356)"><path
+             d="m 0,0 c 0,0 44.726,0 61.205,-41.195 l 182.436,-355.458 h 17.035 l 18.276,47.081 L 108.285,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" /></g><g
+           id="g22"
+           transform="translate(391.9448,419.3943)"><path
+             d="m 0,0 14.132,38.841 h 96.507 C 80.774,38.83 51.284,27.158 54.143,-5.885 c 0,0 14.929,-233.829 18.996,-290.722 4.353,-48.931 46.862,-58.295 46.916,-57.673 H -30.977 c 0,0 47.455,5.885 48.632,57.673 C 18.832,-244.818 0,0 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" /></g><g
+           id="g26"
+           transform="translate(102.4,92.1851)"><path
+             d="m 0,0 c 0,21.452 -17.39,38.841 -38.841,38.841 -21.452,0 -38.842,-17.389 -38.842,-38.841 0,-21.451 17.39,-38.841 38.842,-38.841 C -17.39,-38.841 0,-21.451 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path28" /></g></g></g></g></svg>
